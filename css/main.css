@@ -50,10 +50,12 @@ img {
 }
 
 cite {
-  line-height: 1.5;
+  
 }
 
 blockquote {
   font-weight: bold;
   font-style: italic;
+  line-height: 1.5;
+  font-size: 1.5rem;
 }
