@@ -41,18 +41,19 @@ a:hover {
 }
 
 .p {
-  font-weight: 700;
+  font-weight: bold;
   font-family: "PT Serif", serif;
 }
 
-strong {
-  font-weight: normal;
-}
-
 img {
-  width: 25rem;
+  width: 30rem;
 }
 
 cite {
   line-height: 1.5;
+}
+
+blockquote {
+  font-weight: bold;
+  font-style: italic;
 }
