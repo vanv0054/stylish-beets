@@ -46,7 +46,7 @@ a:hover {
 }
 
 img {
-  width: 25rem;
+  width: 100%;
 }
 
 cite {
@@ -59,8 +59,4 @@ blockquote {
   font-style: italic;
   line-height: 1.5;
   font-size: 1.5rem;
-}
-
-aside {
-  list-style-type: disc;
 }
