@@ -78,3 +78,7 @@ ul li {
 strong {
   font-weight: normal;
 }
+
+.third {
+  line-height: 1.5;
+}
