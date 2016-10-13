@@ -68,3 +68,7 @@ ol li {
 ul li {
   list-style-type: circle;
 }
+
+.second {
+  font-weight: normal;
+}
