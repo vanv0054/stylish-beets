@@ -40,8 +40,8 @@ a:hover {
   text-decoration: none;
 }
 
-.p {
-  font-weight: 700;
+.first {
+  font-weight: bold;
   font-family: "PT Serif", serif;
 }
 
