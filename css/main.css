@@ -1,5 +1,8 @@
 html {
   background-color: #c9b5ab;
+  font-size: 1rem;
+  font-family: "PT Sans", sans-serif;
+  line-height: normal;
 }
 
 h1 {
